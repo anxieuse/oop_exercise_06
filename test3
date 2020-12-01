@@ -1,0 +1,13 @@
+add -1 2 0 4 1 2 0 0
+add -1 1 0 2 1 1 0 0
+add -3 6 0 12 3 6 0 0
+erase 2
+print
+add -3 6 0 12 3 6 0 0
+print
+erase 2
+print 
+erase 1
+print 
+erase 0
+print 
